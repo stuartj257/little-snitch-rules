@@ -6,7 +6,7 @@
       "modificationDate" : 1536795307.611088,
       "creationDate" : 1536707403.370259,
       "remote-domains" : [
-        “ac",
+        "ac",
         "ao",
         "bf",
         "bi",
@@ -62,7 +62,7 @@
         "yt",
         "za",
         "zm",
-        "zw”
+        "zw"
       ],
       "process" : "any",
       "priority" : "high"
