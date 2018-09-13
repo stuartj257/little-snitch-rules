@@ -1,0 +1,21 @@
+{
+  "rules" : [
+    {
+      "owner" : "any",
+      "action" : "deny",
+      "modificationDate" : 1536795307.611088,
+      "creationDate" : 1536707403.370259,
+      "remote-domains" : [
+        "xn--lgbbat1ad8j",
+        "xn--wgbh1c",
+        "xn--mgbc0a9azcg",
+        "xn--mgbpl2fh",
+        "xn--pgbs0dh",
+      ],
+      "process" : "any",
+      "priority" : "high"
+    }
+  ],
+  "name" : "Domains - Africa (Internationalized)",
+  "description" : ""
+}
