@@ -1,0 +1,31 @@
+{
+  "rules" : [
+    {
+      "owner" : "any",
+      "action" : "deny",
+      "modificationDate" : 1536795307.611088,
+      "creationDate" : 1536707403.370259,
+      "remote-domains" : [
+        "ar",
+        "bo",
+        "br",
+        "cl",
+        "co",
+        "do",
+        "ec",
+        "fk",
+        "gf",
+        "gy",
+        "pe",
+        "py",
+        "sr",
+        "uy",
+        "ve"
+      ],
+      "process" : "any",
+      "priority" : "high"
+    }
+  ],
+  "name" : "Domains - South America",
+  "description" : ""
+}

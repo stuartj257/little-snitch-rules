@@ -1,0 +1,13 @@
+This repository contains rules for Little Snitch
+(https://www.obdev.at/products/littlesnitch/index.html). The lists are broken
+into several categories: domains (internationalized, ascii).
+
+For information how to set up Little Snitch, please see their help pages:
+https://help.obdev.at/resources/documentation/littlesnitch/#/lsc-rule-group-subscriptions
+
+
+References:
+
+TLDs pulled from https://www.iana.org/domains/root/db
+
+IP addresses pulled from https://www.iana.org/numbers

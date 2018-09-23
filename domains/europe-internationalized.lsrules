@@ -1,0 +1,21 @@
+{
+  "rules" : [
+    {
+      "owner" : "any",
+      "action" : "deny",
+      "modificationDate" : 1536795307.611088,
+      "creationDate" : 1536707403.370259,
+      "remote-domains" : [
+        "xn--90ais",
+        "xn--d1alf",
+        "xn--90a3ac",
+        "xn--p1ai",
+        "xn--j1amh"
+      ],
+      "process" : "any",
+      "priority" : "high"
+    }
+  ],
+  "name" : "Domains - Europe (Internationalized)",
+  "description" : ""
+}
